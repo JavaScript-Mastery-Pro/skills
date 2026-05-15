@@ -1,0 +1,21 @@
+{
+  "name": "@jsmastery/skills",
+  "version": "1.0.0",
+  "description": "Agent skills for developers who want to build real, production-ready software with AI without losing the engineering thinking behind it.",
+  "keywords": [
+    "claude-code",
+    "cursor",
+    "ai-coding",
+    "skills",
+    "agent-skills",
+    "developer-tools",
+    "javascript-mastery"
+  ],
+  "homepage": "https://github.com/JavaScript-Mastery-Pro/skills",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JavaScript-Mastery-Pro/skills.git"
+  },
+  "license": "MIT",
+  "author": "JavaScript Mastery"
+}

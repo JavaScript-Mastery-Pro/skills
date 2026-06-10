@@ -1,6 +1,6 @@
 {
   "name": "@jsmastery/skills",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Agent skills for developers who want to build real, production-ready software with AI without losing the engineering thinking behind it.",
   "keywords": [
     "claude-code",

@@ -2,11 +2,13 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Agent skills for developers who want to build real, production-ready software with AI — without losing the engineering thinking behind it.
+AI agents are powerful. They're also stateless, pattern-matching tools that will confidently build the wrong thing if you let them.
 
-These skills work with any AI coding agent that supports the SKILL.md format — Claude Code, Cursor, Windsurf, Codex, Cline, and more.
+JSM Skills give your AI agent the engineering discipline it doesn't have by default — memory between sessions, architectural thinking before you write a line, and structured review after. Five slash commands that keep you in the driver's seat.
 
-**Philosophy:** AI should amplify developer thinking, not replace it. These skills teach you to direct AI like a senior engineer — not depend on it blindly.
+They work with any agent that supports the SKILL.md format: Claude Code, Cursor, Windsurf, Codex, Cline, and more.
+
+**Philosophy:** The problem isn't that AI writes bad code. It's that developers stop thinking when it writes fast code. These skills keep you thinking.
 
 ---
 
@@ -14,16 +16,6 @@ These skills work with any AI coding agent that supports the SKILL.md format —
 
 ```bash
 npx skills@latest add JavaScript-Mastery-Pro/skills
-```
-
-Install individual skills:
-
-```bash
-npx skills@latest add JavaScript-Mastery-Pro/skills/architect
-npx skills@latest add JavaScript-Mastery-Pro/skills/remember
-npx skills@latest add JavaScript-Mastery-Pro/skills/review
-npx skills@latest add JavaScript-Mastery-Pro/skills/recover
-npx skills@latest add JavaScript-Mastery-Pro/skills/imprint
 ```
 
 ---
@@ -99,10 +91,7 @@ Extract the visual patterns that matter for consistency and save them to ui-regi
 
 ## Learn More
 
-These skills were built by [JavaScript Mastery](https://www.youtube.com/@javascriptmastery) — one of the most popular development education channels with 1M+ subscribers.
-
-Watch the full workflow video to see these skills used in a real production build:
-[Coming soon]
+Built by [JavaScript Mastery](https://www.youtube.com/@javascriptmastery) — development education for serious engineers.
 
 ---
 
